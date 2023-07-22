@@ -1,0 +1,1 @@
+"New product","newStore","testing import product",20,4.30

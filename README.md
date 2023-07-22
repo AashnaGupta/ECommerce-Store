@@ -1,4 +1,4 @@
-# Ecommerce Shopping Platform
+# Project 4 - Ecommerce Shopping Platform
 
 ## **Instructions on how to compile and run the project**
 

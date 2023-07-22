@@ -1,0 +1,4 @@
+"Fine Paintbrush","Michaels","Quality paintbrush for fine lines",25,14.99
+"Elmer's Glue","Michaels","Children-friendly glue",50,9.99
+"Basic 20cm Scissors","Michaels","Strong grip, clear cut scissors",50,7.99
+"Crayola 16 Pack Crayons","Michaels","Ultra-clean, washable, large crayons",10,7.99
