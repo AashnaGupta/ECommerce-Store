@@ -22,11 +22,6 @@ Step 1: Compile all java classes
 <br />For example, User.java is tested by running the main method housed in UserLocalTest.java.<br />
 
 
-## **Who submitted what**
-1. Eylul (Aysu) Saglam - Submitted Repository as `.zip` File
-2. Jiwon Seo - Submitted Vocareum Workspace
-3. Aashna Gupta - Submitted Report on Brightspace
-
 ## **Detailed descriptions of each class**
 
 This includes for every class a) functionality and relationship to other classes, b) testing, c) edit history (to be moved outside this repository before submitting project 5)
